@@ -1,0 +1,15 @@
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\bin\Debug\net7.0\Пример002.exe
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\bin\Debug\net7.0\Пример002.deps.json
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\bin\Debug\net7.0\Пример002.runtimeconfig.json
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\bin\Debug\net7.0\Пример002.dll
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\bin\Debug\net7.0\Пример002.pdb
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.csproj.AssemblyReference.cache
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.AssemblyInfoInputs.cache
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.AssemblyInfo.cs
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.csproj.CoreCompileInputs.cache
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.dll
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\refint\Пример002.dll
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.pdb
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\Пример002.genruntimeconfig.cache
+C:\Users\petri\Downloads\GeekBrains\Программирование\Пример\Пример002\obj\Debug\net7.0\ref\Пример002.dll
